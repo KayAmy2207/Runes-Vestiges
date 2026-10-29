@@ -1,6 +1,12 @@
+<div align="center">
+
 # ⚡ Runes & Vestiges
 
 > **Discover custom runic enchantments, powerful ancient altars, and explore rare structures in Minecraft Java Edition.**
+
+<img width="1289" height="816" alt="Gemini_Generated_Image_hedlc5hedlc5hedl" src="https://github.com/user-attachments/assets/4bff81ac-856e-4071-91f1-ed9645301bd4" />
+
+</div>
 
 ---
 
@@ -13,14 +19,14 @@
 ## ⚔️ Key Features
 
 ### 🏛️ 3 Functional Altars
-* 🧪 **The Enchanter**: Imbue your weapons and armor directly with runic magic.
-* 📜 **The Disenchanter**: Safely extract enchantments from items back into books.
-* 🔨 **The Enchantment Anvil**: Combine matching enchanted books without standard anvil repair cost penalties.
+- 🧪 **The Enchanter**: Imbue your weapons and armor directly with runic magic.
+- 📜 **The Disenchanter**: Safely extract enchantments from items back into books.
+- 🔨 **The Enchantment Anvil**: Combine matching enchanted books without standard anvil repair cost penalties.
 
 ### 🏰 Overworld Structures & NPCs
-* 🧙‍♂️ **Wizard Tower**: A mysterious tower featuring the **Curator of Vestiges**, a unique NPC who trades rare runic books and ancient items.
-* 🏛️ **Shrine of Accipitridae**: A rare sanctuary that houses all **three functional altars** in one convenient location.
-* 🧰 **Custom Loot Tables**: Search chest loot in structures for vanilla and runic enchanted books.
+- 🧙‍♂️ **Wizard Tower**: A mysterious tower featuring the **Curator of Vestiges**, a unique NPC who trades rare runic books and ancient items.
+- 🏛️ **Shrine of Accipitridae**: A rare sanctuary that houses all **three functional altars** in one convenient location.
+- 🧰 **Custom Loot Tables**: Search chest loot in structures for vanilla and runic enchanted books.
 
 ---
 
@@ -59,6 +65,6 @@ Grab the latest `.jar` binary compiled specifically for your Minecraft version d
 
 ## 📜 Credits & License
 
-* **Developer**: KayAmy2207
-* **License**: Distributed under the **MIT License**.
-* *Note: Contains AI-generated code, assets, and text.*
+- **Developer**: KayAmy2207
+- **License**: Distributed under the **MIT License**.
+- *Note: Contains AI-generated code, assets, and text.*
