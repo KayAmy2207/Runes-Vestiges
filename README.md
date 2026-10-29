@@ -1,2 +1,28 @@
 # Runes-Vestiges
 Discover 43 runic enchantments and explore two rare structures in Minecraft Java
+
+43 runic enchantments for weapons, armor, tools and other equipment.
+Three functional altars: the Enchanter applies enchantments, the Disenchanter extracts them, and the Enchantment Anvil combines matching enchanted books.
+Two tower variants: explore the Wizard Tower or the Shrine of Accipitridae, which contains all three altars.
+Rare Overworld structures with vanilla and runic loot, including enchanted books.
+The Wizard Tower is home to the Curator of Vestiges, who offers runic books.
+Requirements
+Minecraft Java Edition 1.21.1
+Fabric Loader
+Fabric API
+
+Compatibility
+Minecraft: Java Edition
+1.21.1
+Platforms
+Fabric
+Supported environments
+Client and server
+
+Tags
+Equipment
+Magic
+
+Details
+Contains AI-generated code, assets, and text
+Licensed MIT
