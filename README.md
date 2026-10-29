@@ -1,19 +1,16 @@
 # ⚡ Runes & Vestiges
 
-> **Discover 43 runic enchantments, powerful ancient altars, and explore rare structures in Minecraft Java Edition.**
+> **Discover custom runic enchantments, powerful ancient altars, and explore rare structures in Minecraft Java Edition.**
 
 ---
 
 ## 📖 Overview
 
-**Runes & Vestiges** is a feature-packed Fabric mod that redefines magic and equipment progression in Minecraft. Unleash **43 custom runic enchantments** across your armor, weapons, and tools. Discover legendary structures generated in the Overworld, trade with specialized NPCs, and master three functional altars to manipulate enchantments like never before.
+**Runes & Vestiges** is a feature-packed Fabric mod that redefines magic and equipment progression in Minecraft. Unleash custom runic enchantments across your armor, weapons, and tools. Discover legendary structures generated in the Overworld, trade with specialized NPCs, and master three functional altars to manipulate enchantments like never before.
 
 ---
 
 ## ⚔️ Key Features
-
-### 🔮 43 Runic Enchantments
-* Custom spell effects, defensive runes, and offensive buffs for all gear slots (weapons, armor, tools, and accessories).
 
 ### 🏛️ 3 Functional Altars
 * 🧪 **The Enchanter**: Imbue your weapons and armor directly with runic magic.
@@ -24,6 +21,19 @@
 * 🧙‍♂️ **Wizard Tower**: A mysterious tower featuring the **Curator of Vestiges**, a unique NPC who trades rare runic books and ancient items.
 * 🏛️ **Shrine of Accipitridae**: A rare sanctuary that houses all **three functional altars** in one convenient location.
 * 🧰 **Custom Loot Tables**: Search chest loot in structures for vanilla and runic enchanted books.
+
+---
+
+## 📜 Runic Enchantments Index
+
+| Category | Enchantments Included |
+| :--- | :--- |
+| **⚔️ Combat & Weapons** | `Lethal Edge`, `End Slayer`, `Life Reaper`, `Last Stand`, `Wither Thorns` |
+| **🏹 Ranged & Utility** | `Longshot`, `Hooking`, `Hookshot`, `Vortex` |
+| **🛡️ Armor & Survival** | `Vitality`, `Colossus`, `Amphibian`, `Nightwatcher` |
+| **👟 Movement & Boots** | `Double Jump`, `Slime Jump`, `Sticky Pants`, `Lift Off`, `Horse Walker`, `Spiked Harness` |
+| **⛏️ Mining & Gathering** | `Quarrymaster`, `Lumberjack`, `Leaf Feller`, `Melting`, `Ore Alchemy`, `Spawner Silk` |
+| **🌾 Utility & Farming** | `Carry`, `Magnetism`, `Piston Eject`, `Lucky Gardener`, `Archaeologist`, `Wisdom`, `Quick Learner` |
 
 ---
 
