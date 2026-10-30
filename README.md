@@ -68,3 +68,10 @@ Grab the latest `.jar` binary compiled specifically for your Minecraft version d
 - **Developer**: KayAmy2207
 - **License**: Distributed under the **MIT License**.
 - *Note: Contains AI-generated code, assets, and text.*
+
+- ## 📜 Credits & Acknowledgments
+
+**Rune and Vestige** is inspired by the popular Bedrock addon **More Enchants 3.0** created by **BLOCKLAB Studios** (and Eternal Creations).
+
+* All code and mechanics in this Java version have been rewritten from scratch.
+* This project is an unofficial fan-made port built to bring the iconic runic enchantment experience, custom altars, and unique progression to Minecraft Java Edition.
