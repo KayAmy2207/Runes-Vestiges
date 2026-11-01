@@ -6,7 +6,7 @@
 
 Fabric mod for **Minecraft Java 1.21.1 and 26.3**.
 
-<img width="1289" height="816" alt="Runes & Vestiges mod artwork" src="https://github.com/user-attachments/assets/4bff81ac-856e-4071-91f1-ed9645301bd4" />
+<img width="1289" height="816" alt="Runes & Vestiges mod artwork" src="https://github.com/user-attachments/assets/68556906-9927-4e43-bc82-c87da3f2b0ca" />
 
 </div>
 
@@ -22,13 +22,7 @@ The mod supports **Minecraft Java Edition 1.21.1 and 26.3** on Fabric. These are
 
 ### 35 runic enchantments
 
-Enchantments cover combat, defense, movement, mining, farming, and exploration. Examples include:
-
-- **Obsidian Armor** — a single-level chestplate enchantment that protects against fire and lava and improves lava visibility. It loses one durability every two seconds while your eyes are in lava.
-- **Rune of Salvation** — a one-use chestplate enchantment that saves your inventory on death and places it in a chest near your respawn point. The enchantment is consumed.
-- **Rejuvenation** — a single-level enchantment for armor, tools, and weapons. The Enchanter repairs one durability per second while an eligible player is within six blocks; one Runic Shard pays for every ten durability restored.
-
-The complete enchantment list:
+Enchantments cover combat, defense, movement, mining, farming, and exploration.
 
 | Category | Enchantments |
 | :--- | :--- |
@@ -36,6 +30,12 @@ The complete enchantment list:
 | **Movement & mounts** | Double Jump, Horse Walker, Lift Off, Slime Jump, Sticky Pants, Spiked Harness |
 | **Mining & gathering** | Archaeologist, Leaf Feller, Lumberjack, Melting, Ore Alchemy, Quarrymaster, Quick Learner, Spawner Silk, Wisdom |
 | **Ranged, utility & farming** | Carry, Hooking, Hookshot, Longshot, Lucky Gardener, Magnetism, Piston Eject, Rejuvenation, Vortex |
+
+### Three new enchantments
+
+- **Obsidian Armor** — a single-level chestplate enchantment that protects against fire and lava, improves visibility under lava, and loses one durability every two seconds while your eyes are in lava.
+- **Rune of Salvation** — a one-use chestplate enchantment that saves your inventory on death and places it in a chest near your respawn point. The enchantment is consumed.
+- **Rejuvenation** — a single-level enchantment for armor, tools, and weapons. The Enchanter repairs eligible gear for a nearby player; one Runic Shard pays for every ten durability restored.
 
 ### Three functional altars
 
@@ -56,7 +56,7 @@ The structures generate in new chunks. Explore unvisited areas or use `/locate s
 
 - **Obsidian Armor** books: Bastion chests (20% chance per eligible chest).
 - **Rune of Salvation** books: End City treasure chests (12% chance per eligible chest). It is not available from the standard enchanting table.
-- **Rejuvenation** books: Wizard Tower and Shrine of Accipitridae loot (15% chance per eligible chest or barrel).
+- **Rejuvenation** books: Wizard Tower and Shrine of Accipitridae chests and barrels (15% chance per eligible container).
 
 These are random chances, not guarantees; previously generated container contents do not change. The End City loot can also contain a **Runic Compass** (35% chance per eligible chest), which helps locate runic structures.
 
@@ -96,7 +96,6 @@ Both projects include build instructions. The original 26.3 source project was u
 
 - A new world is not required, but structures appear only in newly generated chunks.
 - Rune of Salvation keeps a pending saved inventory in server memory until its recovery chest is placed. A server crash or restart before recovery can lose that pending inventory.
-- The projects build successfully. In-game behavior may still depend on the Minecraft, Fabric Loader, and Fabric API versions in use.
 
 ## Credits & license
 
