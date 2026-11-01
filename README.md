@@ -82,21 +82,13 @@ See the [Releases page](../../releases) for downloads and release notes.
 
 - Minecraft Java Edition **1.21.1** or **26.3**
 - [Fabric Loader](https://fabricmc.net/)
-- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api), matching your Minecraft version
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api),
 - Java **21 or newer** for Minecraft 1.21.1; Java **25 or newer** for Minecraft 26.3
 
 ## Source code
 
 - [Minecraft 1.21.1 source project](RuneVestiges-1.21.1/)
 - [Minecraft 26.3 source project](RuneVestiges-26.3/)
-
-Both projects include build instructions. The original 26.3 source project was unavailable, so its source was reconstructed from the installed mod JAR.
-
-## Notes
-
-- A new world is not required, but structures appear only in newly generated chunks.
-- Rune of Salvation keeps a pending saved inventory in server memory until its recovery chest is placed. A server crash or restart before recovery can lose that pending inventory.
-- The projects build successfully. In-game behavior may still depend on the Minecraft, Fabric Loader, and Fabric API versions in use.
 
 ## Credits & license
 
