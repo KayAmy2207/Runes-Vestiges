@@ -31,7 +31,7 @@ The complete enchantment list:
 | **Movement & mounts** | Double Jump, Horse Walker, Lift Off, Slime Jump, Sticky Pants, Spiked Harness |
 | **Mining & gathering** | Archaeologist, Leaf Feller, Lumberjack, Melting, Ore Alchemy, Quarrymaster, Quick Learner, Spawner Silk, Wisdom |
 | **Ranged, utility & farming** | Carry, Hooking, Hookshot, Longshot, Lucky Gardener, Magnetism, Piston Eject, Rejuvenation, Vortex |
-| **End Game Book** | Obsidian Armor, Obsidian Armor, Rejuvenation, |
+| **End Game Book** | Obsidian Armor, Rune of Salvation, Rejuvenation, |
 
 
 ### Three functional altars
