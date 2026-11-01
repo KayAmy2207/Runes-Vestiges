@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "runevestiges:item/runic_compass_face",
+    "layer1": "runevestiges:item/runic_compass_sweep",
+    "layer2": "runevestiges:item/runic_compass_needle_28"
+  }
+}

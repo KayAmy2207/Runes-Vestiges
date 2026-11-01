@@ -1,0 +1,636 @@
+{
+    "model":  {
+                  "type":  "minecraft:range_dispatch",
+                  "property":  "minecraft:custom_model_data",
+                  "index":  0,
+                  "entries":  [
+                                  {
+                                      "threshold":  2,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/books/runic_enchanted_book"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  10,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/amphibian_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  11,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/amphibian_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  12,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/amphibian_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  13,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/archaeologist_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  14,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/archaeologist_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  15,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/archaeologist_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  16,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/carry_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  17,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/carry_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  18,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/carry_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  19,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/colossus_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  20,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/colossus_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  21,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/colossus_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  22,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/end_slayer_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  23,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/end_slayer_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  24,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/end_slayer_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  25,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/hooking_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  26,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/hooking_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  27,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/hooking_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  28,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/hookshot_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  29,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/hookshot_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  30,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/hookshot_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  31,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/horse_walker_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  32,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/horse_walker_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  33,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/horse_walker_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  34,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/last_stand_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  35,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/last_stand_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  36,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/last_stand_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  37,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/leaf_feller_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  38,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/leaf_feller_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  39,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/leaf_feller_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  40,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lumberjack_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  41,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lethal_edge_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  42,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lethal_edge_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  43,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lethal_edge_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  44,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/longshot_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  45,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/longshot_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  46,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/longshot_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  47,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lucky_gardener_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  48,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lucky_gardener_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  49,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lucky_gardener_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  50,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/magnetism_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  51,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/magnetism_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  52,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/magnetism_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  53,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/nightwatcher_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  54,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/melting_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  55,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/ore_alchemy_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  56,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/ore_alchemy_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  57,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/ore_alchemy_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  58,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/piston_eject_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  59,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/piston_eject_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  60,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/piston_eject_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  61,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/quarrymaster_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  62,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/quarrymaster_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  63,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/quarrymaster_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  64,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/quick_learner_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  65,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/quick_learner_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  66,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/quick_learner_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  67,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/spawner_silk_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  68,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/spawner_silk_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  69,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/spawner_silk_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  70,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/spiked_harness_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  71,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/spiked_harness_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  72,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/spiked_harness_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  73,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/sticky_pants_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  74,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vortex_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  75,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vortex_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  76,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vortex_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  77,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/wisdom_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  78,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/wisdom_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  79,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/wisdom_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  80,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/wither_thorns_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  81,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/wither_thorns_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  82,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/wither_thorns_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  83,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vitality_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  84,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vitality_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  85,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vitality_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  86,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vitality_4"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  87,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/vitality_5"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  88,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/lift_off_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  89,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/double_jump_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  90,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/double_jump_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  91,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/double_jump_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  92,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/slime_jump_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  93,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/slime_jump_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  94,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/slime_jump_3"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  95,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/life_reaper_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  96,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/life_reaper_2"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  97,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/life_reaper_3"
+                                                }
+                                  }
+                              ],
+                  "fallback":  {
+                                   "type":  "minecraft:model",
+                                   "model":  "minecraft:item/enchanted_book"
+                               }
+              }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "runevestiges",
+  "version": "${version}",
+  "name": "Runes des Vestiges",
+  "description": "Explorez des ruines antiques, découvrez des enchantements runiques et façonnez-les sur un autel.",
+  "authors": ["Guill"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.runevestiges.RuneVestiges",
+      "fr.runevestiges.content.RuneVestigesBlockEntityInitializer"
+    ],
+    "client": [
+      "fr.runevestiges.client.RuneVestigesClient",
+      "fr.runevestiges.client.RuneVestigesRendererClient"
+    ]
+  },
+  "mixins": [
+    "runevestiges.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

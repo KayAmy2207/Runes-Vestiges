@@ -1,0 +1,23 @@
+{
+  "additional_wants": {
+    "id": "runevestiges:runic_shard",
+    "count": 1
+  },
+  "given_item_modifier": [
+    {
+      "type": "minecraft:enchant_randomly",
+      "only_compatible": false,
+      "options": "#runevestiges:trades"
+    }
+  ],
+  "gives": {
+    "id": "minecraft:enchanted_book",
+    "count": 1
+  },
+  "max_uses": 8,
+  "wants": {
+    "count": 14,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10
+}

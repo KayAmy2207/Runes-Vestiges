@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ESE",
+    "DCD",
+    "DDD"
+  ],
+  "key": {
+    "E": "minecraft:echo_shard",
+    "S": "minecraft:sculk_catalyst",
+    "D": "minecraft:deepslate_bricks",
+    "C": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "id": "runevestiges:disenchanting_altar",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "runevestiges:item/books/rune_book_longshot"
+  },
+  "parent": "minecraft:item/generated"
+}

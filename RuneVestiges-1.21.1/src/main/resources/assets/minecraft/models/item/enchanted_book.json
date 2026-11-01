@@ -1,0 +1,1076 @@
+{
+    "parent":  "minecraft:item/generated",
+    "overrides":  [
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2
+                                        },
+                          "model":  "runevestiges:item/books/runic_enchanted_book"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  10
+                                        },
+                          "model":  "runevestiges:item/amphibian_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  11
+                                        },
+                          "model":  "runevestiges:item/amphibian_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  12
+                                        },
+                          "model":  "runevestiges:item/amphibian_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  13
+                                        },
+                          "model":  "runevestiges:item/archaeologist_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  14
+                                        },
+                          "model":  "runevestiges:item/archaeologist_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  15
+                                        },
+                          "model":  "runevestiges:item/archaeologist_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  16
+                                        },
+                          "model":  "runevestiges:item/carry_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  17
+                                        },
+                          "model":  "runevestiges:item/carry_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  18
+                                        },
+                          "model":  "runevestiges:item/carry_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  19
+                                        },
+                          "model":  "runevestiges:item/colossus_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  20
+                                        },
+                          "model":  "runevestiges:item/colossus_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  21
+                                        },
+                          "model":  "runevestiges:item/colossus_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  22
+                                        },
+                          "model":  "runevestiges:item/end_slayer_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  23
+                                        },
+                          "model":  "runevestiges:item/end_slayer_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  24
+                                        },
+                          "model":  "runevestiges:item/end_slayer_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  25
+                                        },
+                          "model":  "runevestiges:item/hooking_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  26
+                                        },
+                          "model":  "runevestiges:item/hooking_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  27
+                                        },
+                          "model":  "runevestiges:item/hooking_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  28
+                                        },
+                          "model":  "runevestiges:item/hookshot_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  29
+                                        },
+                          "model":  "runevestiges:item/hookshot_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  30
+                                        },
+                          "model":  "runevestiges:item/hookshot_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  31
+                                        },
+                          "model":  "runevestiges:item/horse_walker_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  32
+                                        },
+                          "model":  "runevestiges:item/horse_walker_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  33
+                                        },
+                          "model":  "runevestiges:item/horse_walker_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  34
+                                        },
+                          "model":  "runevestiges:item/last_stand_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  35
+                                        },
+                          "model":  "runevestiges:item/last_stand_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  36
+                                        },
+                          "model":  "runevestiges:item/last_stand_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  37
+                                        },
+                          "model":  "runevestiges:item/leaf_feller_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  38
+                                        },
+                          "model":  "runevestiges:item/leaf_feller_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  39
+                                        },
+                          "model":  "runevestiges:item/leaf_feller_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  40
+                                        },
+                          "model":  "runevestiges:item/lumberjack_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  41
+                                        },
+                          "model":  "runevestiges:item/lethal_edge_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  42
+                                        },
+                          "model":  "runevestiges:item/lethal_edge_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  43
+                                        },
+                          "model":  "runevestiges:item/lethal_edge_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  44
+                                        },
+                          "model":  "runevestiges:item/longshot_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  45
+                                        },
+                          "model":  "runevestiges:item/longshot_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  46
+                                        },
+                          "model":  "runevestiges:item/longshot_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  47
+                                        },
+                          "model":  "runevestiges:item/lucky_gardener_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  48
+                                        },
+                          "model":  "runevestiges:item/lucky_gardener_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  49
+                                        },
+                          "model":  "runevestiges:item/lucky_gardener_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  50
+                                        },
+                          "model":  "runevestiges:item/magnetism_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  51
+                                        },
+                          "model":  "runevestiges:item/magnetism_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  52
+                                        },
+                          "model":  "runevestiges:item/magnetism_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  53
+                                        },
+                          "model":  "runevestiges:item/nightwatcher_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  54
+                                        },
+                          "model":  "runevestiges:item/melting_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  55
+                                        },
+                          "model":  "runevestiges:item/ore_alchemy_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  56
+                                        },
+                          "model":  "runevestiges:item/ore_alchemy_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  57
+                                        },
+                          "model":  "runevestiges:item/ore_alchemy_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  58
+                                        },
+                          "model":  "runevestiges:item/piston_eject_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  59
+                                        },
+                          "model":  "runevestiges:item/piston_eject_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  60
+                                        },
+                          "model":  "runevestiges:item/piston_eject_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  61
+                                        },
+                          "model":  "runevestiges:item/quarrymaster_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  62
+                                        },
+                          "model":  "runevestiges:item/quarrymaster_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  63
+                                        },
+                          "model":  "runevestiges:item/quarrymaster_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  64
+                                        },
+                          "model":  "runevestiges:item/quick_learner_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  65
+                                        },
+                          "model":  "runevestiges:item/quick_learner_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  66
+                                        },
+                          "model":  "runevestiges:item/quick_learner_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  67
+                                        },
+                          "model":  "runevestiges:item/spawner_silk_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  68
+                                        },
+                          "model":  "runevestiges:item/spawner_silk_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  69
+                                        },
+                          "model":  "runevestiges:item/spawner_silk_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  70
+                                        },
+                          "model":  "runevestiges:item/spiked_harness_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  71
+                                        },
+                          "model":  "runevestiges:item/spiked_harness_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  72
+                                        },
+                          "model":  "runevestiges:item/spiked_harness_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  73
+                                        },
+                          "model":  "runevestiges:item/sticky_pants_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  74
+                                        },
+                          "model":  "runevestiges:item/vortex_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  75
+                                        },
+                          "model":  "runevestiges:item/vortex_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  76
+                                        },
+                          "model":  "runevestiges:item/vortex_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  77
+                                        },
+                          "model":  "runevestiges:item/wisdom_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  78
+                                        },
+                          "model":  "runevestiges:item/wisdom_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  79
+                                        },
+                          "model":  "runevestiges:item/wisdom_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  80
+                                        },
+                          "model":  "runevestiges:item/wither_thorns_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  81
+                                        },
+                          "model":  "runevestiges:item/wither_thorns_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  82
+                                        },
+                          "model":  "runevestiges:item/wither_thorns_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  83
+                                        },
+                          "model":  "runevestiges:item/vitality_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  84
+                                        },
+                          "model":  "runevestiges:item/vitality_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  85
+                                        },
+                          "model":  "runevestiges:item/vitality_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  86
+                                        },
+                          "model":  "runevestiges:item/vitality_4"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  87
+                                        },
+                          "model":  "runevestiges:item/vitality_5"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  88
+                                        },
+                          "model":  "runevestiges:item/lift_off_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  89
+                                        },
+                          "model":  "runevestiges:item/double_jump_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  90
+                                        },
+                          "model":  "runevestiges:item/double_jump_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  91
+                                        },
+                          "model":  "runevestiges:item/double_jump_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  92
+                                        },
+                          "model":  "runevestiges:item/slime_jump_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  93
+                                        },
+                          "model":  "runevestiges:item/slime_jump_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  94
+                                        },
+                          "model":  "runevestiges:item/slime_jump_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  95
+                                        },
+                          "model":  "runevestiges:item/life_reaper_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  96
+                                        },
+                          "model":  "runevestiges:item/life_reaper_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  97
+                                        },
+                          "model":  "runevestiges:item/life_reaper_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  1
+                                        },
+                          "model":  "runevestiges:item/books/runic_enchanted_book"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  10
+                                        },
+                          "model":  "runevestiges:item/amphibian_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  11
+                                        },
+                          "model":  "runevestiges:item/amphibian_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  12
+                                        },
+                          "model":  "runevestiges:item/amphibian_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  13
+                                        },
+                          "model":  "runevestiges:item/archaeologist_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  14
+                                        },
+                          "model":  "runevestiges:item/archaeologist_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  15
+                                        },
+                          "model":  "runevestiges:item/archaeologist_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  16
+                                        },
+                          "model":  "runevestiges:item/carry_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  17
+                                        },
+                          "model":  "runevestiges:item/carry_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  18
+                                        },
+                          "model":  "runevestiges:item/carry_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  19
+                                        },
+                          "model":  "runevestiges:item/colossus_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  20
+                                        },
+                          "model":  "runevestiges:item/colossus_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  21
+                                        },
+                          "model":  "runevestiges:item/colossus_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  22
+                                        },
+                          "model":  "runevestiges:item/end_slayer_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  23
+                                        },
+                          "model":  "runevestiges:item/end_slayer_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  24
+                                        },
+                          "model":  "runevestiges:item/end_slayer_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  25
+                                        },
+                          "model":  "runevestiges:item/hooking_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  26
+                                        },
+                          "model":  "runevestiges:item/hooking_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  27
+                                        },
+                          "model":  "runevestiges:item/hooking_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  28
+                                        },
+                          "model":  "runevestiges:item/hookshot_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  29
+                                        },
+                          "model":  "runevestiges:item/hookshot_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  30
+                                        },
+                          "model":  "runevestiges:item/hookshot_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  31
+                                        },
+                          "model":  "runevestiges:item/horse_walker_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  32
+                                        },
+                          "model":  "runevestiges:item/horse_walker_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  33
+                                        },
+                          "model":  "runevestiges:item/horse_walker_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  34
+                                        },
+                          "model":  "runevestiges:item/last_stand_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  35
+                                        },
+                          "model":  "runevestiges:item/last_stand_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  36
+                                        },
+                          "model":  "runevestiges:item/last_stand_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  37
+                                        },
+                          "model":  "runevestiges:item/leaf_feller_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  38
+                                        },
+                          "model":  "runevestiges:item/leaf_feller_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  39
+                                        },
+                          "model":  "runevestiges:item/leaf_feller_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  40
+                                        },
+                          "model":  "runevestiges:item/lumberjack_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  41
+                                        },
+                          "model":  "runevestiges:item/lethal_edge_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  42
+                                        },
+                          "model":  "runevestiges:item/lethal_edge_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  43
+                                        },
+                          "model":  "runevestiges:item/lethal_edge_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  44
+                                        },
+                          "model":  "runevestiges:item/longshot_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  45
+                                        },
+                          "model":  "runevestiges:item/longshot_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  46
+                                        },
+                          "model":  "runevestiges:item/longshot_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  47
+                                        },
+                          "model":  "runevestiges:item/lucky_gardener_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  48
+                                        },
+                          "model":  "runevestiges:item/lucky_gardener_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  49
+                                        },
+                          "model":  "runevestiges:item/lucky_gardener_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  50
+                                        },
+                          "model":  "runevestiges:item/magnetism_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  51
+                                        },
+                          "model":  "runevestiges:item/magnetism_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  52
+                                        },
+                          "model":  "runevestiges:item/magnetism_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  53
+                                        },
+                          "model":  "runevestiges:item/nightwatcher_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  54
+                                        },
+                          "model":  "runevestiges:item/melting_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  55
+                                        },
+                          "model":  "runevestiges:item/ore_alchemy_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  56
+                                        },
+                          "model":  "runevestiges:item/ore_alchemy_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  57
+                                        },
+                          "model":  "runevestiges:item/ore_alchemy_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  58
+                                        },
+                          "model":  "runevestiges:item/piston_eject_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  59
+                                        },
+                          "model":  "runevestiges:item/piston_eject_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  60
+                                        },
+                          "model":  "runevestiges:item/piston_eject_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  61
+                                        },
+                          "model":  "runevestiges:item/quarrymaster_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  62
+                                        },
+                          "model":  "runevestiges:item/quarrymaster_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  63
+                                        },
+                          "model":  "runevestiges:item/quarrymaster_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  64
+                                        },
+                          "model":  "runevestiges:item/quick_learner_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  65
+                                        },
+                          "model":  "runevestiges:item/quick_learner_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  66
+                                        },
+                          "model":  "runevestiges:item/quick_learner_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  67
+                                        },
+                          "model":  "runevestiges:item/spawner_silk_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  68
+                                        },
+                          "model":  "runevestiges:item/spawner_silk_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  69
+                                        },
+                          "model":  "runevestiges:item/spawner_silk_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  70
+                                        },
+                          "model":  "runevestiges:item/spiked_harness_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  71
+                                        },
+                          "model":  "runevestiges:item/spiked_harness_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  72
+                                        },
+                          "model":  "runevestiges:item/spiked_harness_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  73
+                                        },
+                          "model":  "runevestiges:item/sticky_pants_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  74
+                                        },
+                          "model":  "runevestiges:item/vortex_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  75
+                                        },
+                          "model":  "runevestiges:item/vortex_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  76
+                                        },
+                          "model":  "runevestiges:item/vortex_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  77
+                                        },
+                          "model":  "runevestiges:item/wisdom_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  78
+                                        },
+                          "model":  "runevestiges:item/wisdom_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  79
+                                        },
+                          "model":  "runevestiges:item/wisdom_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  80
+                                        },
+                          "model":  "runevestiges:item/wither_thorns_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  81
+                                        },
+                          "model":  "runevestiges:item/wither_thorns_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  82
+                                        },
+                          "model":  "runevestiges:item/wither_thorns_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  83
+                                        },
+                          "model":  "runevestiges:item/vitality_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  84
+                                        },
+                          "model":  "runevestiges:item/vitality_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  85
+                                        },
+                          "model":  "runevestiges:item/vitality_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  86
+                                        },
+                          "model":  "runevestiges:item/vitality_4"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  87
+                                        },
+                          "model":  "runevestiges:item/vitality_5"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  88
+                                        },
+                          "model":  "runevestiges:item/lift_off_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  89
+                                        },
+                          "model":  "runevestiges:item/double_jump_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  90
+                                        },
+                          "model":  "runevestiges:item/double_jump_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  91
+                                        },
+                          "model":  "runevestiges:item/double_jump_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  92
+                                        },
+                          "model":  "runevestiges:item/slime_jump_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  93
+                                        },
+                          "model":  "runevestiges:item/slime_jump_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  94
+                                        },
+                          "model":  "runevestiges:item/slime_jump_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  95
+                                        },
+                          "model":  "runevestiges:item/life_reaper_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  96
+                                        },
+                          "model":  "runevestiges:item/life_reaper_2"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  97
+                                        },
+                          "model":  "runevestiges:item/life_reaper_3"
+                      }
+                  ],
+    "textures":  {
+                     "layer0":  "minecraft:item/enchanted_book"
+                 }
+}

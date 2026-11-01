@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "package": "fr.runevestiges.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "WanderingTraderMixin",
+    "LivingEntityMixin",
+    "MobAccessor",
+    "UseItemGoalMixin",
+    "AbstractArrowMixin",
+    "RunicBookNameMixin",
+    "ThrownTridentMixin",
+    "FishingHookMixin",
+    "ExperienceOrbMixin"
+  ],
+  "client": [
+    "client.LavaVisionMixin",
+    "client.LivingEntityRendererAccessor",
+    "client.WanderingTraderRendererMixin",
+    "client.CreativeModeTabMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

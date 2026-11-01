@@ -1,0 +1,23 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.runevestiges.piston_eject"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 44,
+    "per_level_above_first": 10
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 8,
+    "per_level_above_first": 10
+  },
+  "primary_items": "#runevestiges:enchantable_piston_eject",
+  "slots": [
+    "mainhand",
+    "offhand"
+  ],
+  "supported_items": "#runevestiges:enchantable_piston_eject",
+  "weight": 4
+}

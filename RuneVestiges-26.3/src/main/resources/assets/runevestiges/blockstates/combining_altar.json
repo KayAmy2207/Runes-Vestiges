@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "runevestiges:block/combining_altar_reforged"
+    },
+    "facing=east": {
+      "model": "runevestiges:block/combining_altar_reforged",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "runevestiges:block/combining_altar_reforged",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "runevestiges:block/combining_altar_reforged",
+      "y": 270
+    }
+  }
+}

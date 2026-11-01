@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "runevestiges:item/lucky_gardener_2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "DED",
+    "DDD"
+  ],
+  "key": {
+    "S": "minecraft:echo_shard",
+    "D": "minecraft:deepslate_bricks",
+    "E": "minecraft:emerald"
+  },
+  "result": {
+    "id": "runevestiges:rune_altar",
+    "count": 1
+  }
+}

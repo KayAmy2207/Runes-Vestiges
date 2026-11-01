@@ -36,7 +36,7 @@
 | :--- | :--- |
 | **⚔️ Combat & Weapons** | `Lethal Edge`, `End Slayer`, `Life Reaper`, `Last Stand`, `Wither Thorns` |
 | **🏹 Ranged & Utility** | `Longshot`, `Hooking`, `Hookshot`, `Vortex` |
-| **🛡️ Armor & Survival** | `Vitality`, `Colossus`, `Amphibian`, `Nightwatcher` |
+| **🛡️ Armor & Survival** | `Vitality`, `Colossus`, `Amphibian`, `Nightwatcher`, `Obsidian Armor`, `Rune of Salvation`, `Rejuvenation` |
 | **👟 Movement & Boots** | `Double Jump`, `Slime Jump`, `Sticky Pants`, `Lift Off`, `Horse Walker`, `Spiked Harness` |
 | **⛏️ Mining & Gathering** | `Quarrymaster`, `Lumberjack`, `Leaf Feller`, `Melting`, `Ore Alchemy`, `Spawner Silk` |
 | **🌾 Utility & Farming** | `Carry`, `Magnetism`, `Piston Eject`, `Lucky Gardener`, `Archaeologist`, `Wisdom`, `Quick Learner` |
@@ -60,6 +60,18 @@
 Grab the latest `.jar` binary compiled specifically for your Minecraft version directly from our official release tab:
 
 👉 **[Download Runes & Vestiges Releases](../../releases)**
+
+Current tested builds are also available directly:
+
+- [Minecraft 1.21.1 — runevestiges-1.0.32](downloads/runevestiges-1.0.32-mc1.21.1.jar)
+- [Minecraft 26.3 — runevestiges-1.0.52](downloads/runevestiges-1.0.52-mc26.3.jar)
+
+## 🧑‍💻 Source Code
+
+- [Fabric source project for Minecraft 1.21.1](RuneVestiges-1.21.1/)
+- [Fabric source project for Minecraft 26.3](RuneVestiges-26.3/)
+
+Each project contains its own build instructions. The 26.3 sources were reconstructed from the installed mod JAR; see that project's README for details.
 
 ---
 

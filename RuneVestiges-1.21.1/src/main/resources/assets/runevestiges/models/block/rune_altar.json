@@ -1,0 +1,94 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "runevestiges:block/altar_rune_side",
+    "top": "runevestiges:block/altar_rune_top",
+    "side": "runevestiges:block/altar_rune_side"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 3, 16],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [2, 3, 2],
+      "to": [14, 7, 14],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [3, 7, 3],
+      "to": [5, 12, 5],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [11, 7, 3],
+      "to": [13, 12, 5],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [3, 7, 11],
+      "to": [5, 12, 13],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [11, 7, 11],
+      "to": [13, 12, 13],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [6, 7, 6],
+      "to": [10, 15, 10],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    }
+  ]
+}

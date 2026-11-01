@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "runevestiges:block/disenchanting_altar_reforged",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "runevestiges:block/disenchanting_altar_reforged",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "runevestiges:block/disenchanting_altar_reforged"
+    },
+    "facing=west": {
+      "model": "runevestiges:block/disenchanting_altar_reforged",
+      "y": 90
+    }
+  }
+}

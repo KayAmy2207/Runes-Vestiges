@@ -1,5 +1,12 @@
 # Changelog - Runes & Vestiges
 
+## [1.0.52] - Minecraft 26.3
+* Parity fixes for Rune of Salvation chest placement retries and vanilla chest loot.
+* Added Obsidian Armor, Rune of Salvation, and Rejuvenation.
+
+## [1.0.32] - Minecraft 1.21.1
+* Added Obsidian Armor, Rune of Salvation, and Rejuvenation.
+
 ## [1.0.51] - Minecraft 26.3
 * Port de la version 1.0.26 vers la version 26.3.
 * Ajustements de compatibilité et optimisations.

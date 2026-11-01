@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "DED",
+    "DDD"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_block",
+    "C": "minecraft:amethyst_shard",
+    "D": "minecraft:deepslate_bricks",
+    "E": "minecraft:enchanting_table"
+  },
+  "result": {
+    "id": "runevestiges:combining_altar",
+    "count": 1
+  }
+}

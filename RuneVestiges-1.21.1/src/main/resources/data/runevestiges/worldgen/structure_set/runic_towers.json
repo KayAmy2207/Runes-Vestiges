@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "runevestiges:runic_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 18473129,
+    "spacing": 600,
+    "separation": 300
+  }
+}

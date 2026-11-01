@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#runevestiges:enchantable_pickaxes",
+    "#minecraft:enchantable/sword"
+  ]
+}

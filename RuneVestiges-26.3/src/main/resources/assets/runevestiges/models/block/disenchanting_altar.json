@@ -1,0 +1,106 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "runevestiges:block/altar_unbinding_side",
+    "top": "runevestiges:block/altar_unbinding_top",
+    "side": "runevestiges:block/altar_unbinding_side"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 3, 16],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [2, 3, 2],
+      "to": [14, 6, 14],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [3, 6, 3],
+      "to": [5, 13, 5],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [11, 6, 3],
+      "to": [13, 13, 5],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [3, 6, 11],
+      "to": [5, 13, 13],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [11, 6, 11],
+      "to": [13, 13, 13],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [5, 6, 5],
+      "to": [11, 9, 11],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    },
+    {
+      "from": [6, 9, 6],
+      "to": [10, 14, 10],
+      "faces": {
+        "up": {"texture": "#top"},
+        "down": {"texture": "#side"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "east": {"texture": "#side"},
+        "west": {"texture": "#side"}
+      }
+    }
+  ]
+}
