@@ -312,6 +312,10 @@ public final class ModContent {
       return new CustomModelData(List.of((float)value), List.of(), List.of(), List.of());
    }
 
+   static CustomModelData runicBookCustomModelData(String enchantmentId) {
+      return customModelData(runicBookModelData(enchantmentId, 1));
+   }
+
    private static ItemEnchantments runicBookEnchantments(ItemStack stack) {
       return (ItemEnchantments)stack.getOrDefault(DataComponents.STORED_ENCHANTMENTS, ItemEnchantments.EMPTY);
    }

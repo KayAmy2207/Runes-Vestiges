@@ -48,7 +48,7 @@ public final class ModLoot {
 					0.12F
 				));
 			}
-			if (key.location().equals(ResourceLocation.fromNamespaceAndPath("runevestiges", "chests/runic_tower"))) {
+			if (key.location().equals(ResourceLocation.fromNamespaceAndPath("runevestiges", "chests/wizard_tower"))) {
 				table.withPool(runicBookPool(
 					registries.lookupOrThrow(Registries.ENCHANTMENT)
 						.getOrThrow(enchantmentKey("rejuvenation")),

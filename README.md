@@ -54,11 +54,11 @@ The structures generate in new chunks. Explore unvisited areas or use `/locate s
 
 ### Where to find the three new enchantments
 
-- **Obsidian Armor** books: Bastion chests (20% chance per added loot roll).
-- **Rune of Salvation** books: End City treasure chests (12% chance per added loot roll). It is not available from the standard enchanting table.
-- **Rejuvenation** books: Wizard Tower and Shrine of Accipitridae loot (15% chance per added loot roll).
+- **Obsidian Armor** books: Bastion chests (20% chance per eligible chest).
+- **Rune of Salvation** books: End City treasure chests (12% chance per eligible chest). It is not available from the standard enchanting table.
+- **Rejuvenation** books: Wizard Tower and Shrine of Accipitridae loot (15% chance per eligible chest or barrel).
 
-The End City loot can also contain a **Runic Compass** (35% chance per added loot roll), which helps locate runic structures.
+These are random chances, not guarantees; previously generated container contents do not change. The End City loot can also contain a **Runic Compass** (35% chance per eligible chest), which helps locate runic structures.
 
 ### Creative mode and guide
 
@@ -73,8 +73,8 @@ Runic enchanted books are available in the **Runes & Vestiges** and **Tools & Ut
 
 | Minecraft version | Mod build | Download |
 | :--- | :--- | :--- |
-| **1.21.1** | 1.0.32 | [runevestiges-1.0.32-mc1.21.1.jar](https://github.com/KayAmy2207/Runes-Vestiges/releases/download/v1.0.32/runevestiges-1.0.32-mc1.21.1.jar) |
-| **26.3** | 1.0.52 | [runevestiges-1.0.52-mc26.3.jar](https://github.com/KayAmy2207/Runes-Vestiges/releases/download/v1.0.52/runevestiges-1.0.52-mc26.3.jar) |
+| **1.21.1** | 1.0.33 | [runevestiges-1.0.33-mc1.21.1.jar](https://github.com/KayAmy2207/Runes-Vestiges/releases/download/v1.0.33/runevestiges-1.0.33-mc1.21.1.jar) |
+| **26.3** | 1.0.53 | [runevestiges-1.0.53-mc26.3.jar](https://github.com/KayAmy2207/Runes-Vestiges/releases/download/v1.0.53/runevestiges-1.0.53-mc26.3.jar) |
 
 See the [Releases page](../../releases) for downloads and release notes.
 

@@ -2,15 +2,16 @@ package fr.runevestiges.content;
 
 import net.fabricmc.fabric.api.loot.v3.LootTableEvents;
 import net.minecraft.core.Holder;
+import net.minecraft.core.component.DataComponents;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.Identifier;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.enchantment.Enchantment;
-import net.minecraft.world.item.Items;
 import net.minecraft.world.level.storage.loot.LootPool;
 import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.functions.EnchantWithLevelsFunction;
+import net.minecraft.world.level.storage.loot.functions.SetComponentsFunction;
 import net.minecraft.world.level.storage.loot.functions.SetEnchantmentsFunction;
 import net.minecraft.world.level.storage.loot.predicates.LootItemRandomChanceCondition;
 import net.minecraft.world.level.storage.loot.providers.number.ints.ConstantValue;
@@ -39,6 +40,7 @@ public final class ModLoot {
             if (source.isBuiltin() && namespace.equals("minecraft") && path.startsWith("chests/bastion_")) {
                 table.withPool(runicBookPool(
                     registries.lookupOrThrow(Registries.ENCHANTMENT).getOrThrow(enchantmentKey("obsidian_armor")),
+                    "obsidian_armor",
                     0.2F
                 ));
             }
@@ -51,12 +53,14 @@ public final class ModLoot {
                 );
                 table.withPool(runicBookPool(
                     registries.lookupOrThrow(Registries.ENCHANTMENT).getOrThrow(enchantmentKey("rune_of_salvation")),
+                    "rune_of_salvation",
                     0.12F
                 ));
             }
-            if (key.identifier().equals(Identifier.fromNamespaceAndPath("runevestiges", "chests/runic_tower"))) {
+            if (key.identifier().equals(Identifier.fromNamespaceAndPath("runevestiges", "chests/wizard_tower"))) {
                 table.withPool(runicBookPool(
                     registries.lookupOrThrow(Registries.ENCHANTMENT).getOrThrow(enchantmentKey("rejuvenation")),
+                    "rejuvenation",
                     0.15F
                 ));
             }
@@ -70,13 +74,17 @@ public final class ModLoot {
         ));
     }
 
-    private static LootPool.Builder runicBookPool(Holder<Enchantment> enchantment, float chance) {
+    private static LootPool.Builder runicBookPool(Holder<Enchantment> enchantment, String enchantmentId, float chance) {
         return LootPool.lootPool()
             .setRolls(Holder.direct(new ConstantValue(1)))
             .when(LootItemRandomChanceCondition.randomChance(chance))
             .add(LootItem.lootTableItem(Items.BOOK)
                 .apply(new SetEnchantmentsFunction.Builder()
-                    .withEnchantment(enchantment, Holder.direct(new ConstantValue(1)))));
+                    .withEnchantment(enchantment, Holder.direct(new ConstantValue(1))))
+                .apply(SetComponentsFunction.setComponent(
+                    DataComponents.CUSTOM_MODEL_DATA,
+                    ModContent.runicBookCustomModelData(enchantmentId)
+                )));
     }
 
     private static ResourceKey<Enchantment> enchantmentKey(String path) {

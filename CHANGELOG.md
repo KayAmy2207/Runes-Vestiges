@@ -1,5 +1,15 @@
 # Changelog - Runes & Vestiges
 
+## [1.0.53] - Minecraft 26.3
+* Fixed Rejuvenation book injection for the Wizard Tower loot table.
+* Added enchanted-book models and the three supplied icons.
+* Kept runic book loot chances unchanged.
+
+## [1.0.33] - Minecraft 1.21.1
+* Fixed Rejuvenation book injection for the Wizard Tower loot table.
+* Added enchanted-book models and the three supplied icons.
+* Kept runic book loot chances unchanged.
+
 ## [1.0.52] - Minecraft 26.3
 * Parity fixes for Rune of Salvation chest placement retries and vanilla chest loot.
 * Added Obsidian Armor, Rune of Salvation, and Rejuvenation.

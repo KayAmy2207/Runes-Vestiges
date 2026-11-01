@@ -626,6 +626,27 @@
                                                     "type":  "minecraft:model",
                                                     "model":  "runevestiges:item/life_reaper_3"
                                                 }
+                                  },
+                                  {
+                                      "threshold":  98,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/obsidian_armor_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  99,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/rune_of_salvation_1"
+                                                }
+                                  },
+                                  {
+                                      "threshold":  100,
+                                      "model":  {
+                                                    "type":  "minecraft:model",
+                                                    "model":  "runevestiges:item/rejuvenation_1"
+                                                }
                                   }
                               ],
                   "fallback":  {

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "runevestiges:item/rune_of_salvation_1"
+  }
+}

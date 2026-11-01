@@ -537,6 +537,24 @@
                       },
                       {
                           "predicate":  {
+                                            "custom_model_data":  98
+                                        },
+                          "model":  "runevestiges:item/obsidian_armor_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  99
+                                        },
+                          "model":  "runevestiges:item/rune_of_salvation_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  100
+                                        },
+                          "model":  "runevestiges:item/rejuvenation_1"
+                      },
+                      {
+                          "predicate":  {
                                             "runevestiges:runic_book":  1
                                         },
                           "model":  "runevestiges:item/books/runic_enchanted_book"
@@ -1068,6 +1086,24 @@
                                             "runevestiges:runic_book":  97
                                         },
                           "model":  "runevestiges:item/life_reaper_3"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  98
+                                        },
+                          "model":  "runevestiges:item/obsidian_armor_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  99
+                                        },
+                          "model":  "runevestiges:item/rune_of_salvation_1"
+                      },
+                      {
+                          "predicate":  {
+                                            "runevestiges:runic_book":  100
+                                        },
+                          "model":  "runevestiges:item/rejuvenation_1"
                       }
                   ],
     "textures":  {
