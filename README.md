@@ -24,9 +24,9 @@ The mod supports **Minecraft Java Edition 1.21.1 and 26.3** on Fabric. These are
 
 Enchantments cover combat, defense, movement, mining, farming, and exploration. Examples include:
 
-- **Obsidian Armor** — a chestplate enchantment that protects against fire and lava, improves visibility while submerged in lava, and wears down while you are in lava.
+- **Obsidian Armor** — a single-level chestplate enchantment that protects against fire and lava and improves lava visibility. It loses one durability every two seconds while your eyes are in lava.
 - **Rune of Salvation** — a one-use chestplate enchantment that saves your inventory on death and places it in a chest near your respawn point. The enchantment is consumed.
-- **Rejuvenation** — repairs your damaged enchanted gear while you are near an Enchanter and it has Runic Shards.
+- **Rejuvenation** — a single-level enchantment for armor, tools, and weapons. The Enchanter repairs one durability per second while an eligible player is within six blocks; one Runic Shard pays for every ten durability restored.
 
 The complete enchantment list:
 
@@ -54,11 +54,11 @@ The structures generate in new chunks. Explore unvisited areas or use `/locate s
 
 ### Where to find the three new enchantments
 
-- **Obsidian Armor** books: Bastion chests.
-- **Rune of Salvation** books: End City treasure chests. It is not available from the standard enchanting table.
-- **Rejuvenation** books: the Wizard Tower and Shrine of Accipitridae loot.
+- **Obsidian Armor** books: Bastion chests (20% chance per added loot roll).
+- **Rune of Salvation** books: End City treasure chests (12% chance per added loot roll). It is not available from the standard enchanting table.
+- **Rejuvenation** books: Wizard Tower and Shrine of Accipitridae loot (15% chance per added loot roll).
 
-The End City loot can also contain a **Runic Compass**, which helps locate runic structures.
+The End City loot can also contain a **Runic Compass** (35% chance per added loot roll), which helps locate runic structures.
 
 ### Creative mode and guide
 
