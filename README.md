@@ -6,8 +6,7 @@
 
 Fabric mod for **Minecraft Java 1.21.1 and 26.3**.
 
-<img width="1289" height="816" alt="Runes & Vestiges mod artwork" src="https://github.com/user-attachments/assets/4bff81ac-856e-4071-91f1-ed9645301bd4" />
-
+<img width="1289" height="816" alt="Gemini_Generated_Image_osiecsosiecsosie" src="https://github.com/user-attachments/assets/68556906-9927-4e43-bc82-c87da3f2b0ca" />
 </div>
 
 ---
