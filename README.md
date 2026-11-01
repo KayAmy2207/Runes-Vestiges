@@ -73,7 +73,7 @@ Runic enchanted books are available in the **Runes & Vestiges** and **Tools & Ut
 
 | Minecraft version | Mod build | Download |
 | :--- | :--- | :--- |
-| **1.21.1** | 1.0.34 | [runevestiges-1.0.34-mc1.21.1.jar](https://github.com/KayAmy2207/Runes-Vestiges/releases/download/v1.0.34/runevestiges-1.0.34-mc1.21.1.jar) |
+| **1.21.1** | 1.0.35 | [runevestiges-1.0.35-mc1.21.1.jar](https://github.com/KayAmy2207/Runes-Vestiges/releases/download/v1.0.35/runevestiges-1.0.35-mc1.21.1.jar) |
 | **26.3** | 1.0.54 | [runevestiges-1.0.54-mc26.3.jar](https://github.com/KayAmy2207/Runes-Vestiges/releases/download/v1.0.54/runevestiges-1.0.54-mc26.3.jar) |
 
 See the [Releases page](../../releases) for downloads and release notes.

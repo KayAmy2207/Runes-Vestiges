@@ -2,13 +2,16 @@ package fr.runevestiges.content;
 
 import net.fabricmc.fabric.api.loot.v3.LootTableEvents;
 import net.minecraft.core.Holder;
+import net.minecraft.core.component.DataComponents;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Items;
+import net.minecraft.world.item.component.CustomModelData;
 import net.minecraft.world.level.storage.loot.LootPool;
 import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.functions.EnchantWithLevelsFunction;
+import net.minecraft.world.level.storage.loot.functions.SetComponentsFunction;
 import net.minecraft.world.level.storage.loot.functions.SetEnchantmentsFunction;
 import net.minecraft.world.level.storage.loot.providers.number.ConstantValue;
 import net.minecraft.world.level.storage.loot.providers.number.UniformGenerator;
@@ -33,6 +36,7 @@ public final class ModLoot {
 				table.withPool(runicBookPool(
 					registries.lookupOrThrow(Registries.ENCHANTMENT)
 						.getOrThrow(enchantmentKey("obsidian_armor")),
+					"obsidian_armor",
 					0.2F
 				));
 			}
@@ -45,6 +49,7 @@ public final class ModLoot {
 				table.withPool(runicBookPool(
 					registries.lookupOrThrow(Registries.ENCHANTMENT)
 						.getOrThrow(enchantmentKey("rune_of_salvation")),
+					"rune_of_salvation",
 					0.12F
 				));
 			}
@@ -52,6 +57,7 @@ public final class ModLoot {
 				table.withPool(runicBookPool(
 					registries.lookupOrThrow(Registries.ENCHANTMENT)
 						.getOrThrow(enchantmentKey("rejuvenation")),
+					"rejuvenation",
 					0.15F
 				));
 			}
@@ -60,6 +66,7 @@ public final class ModLoot {
 
 	private static LootPool.Builder runicBookPool(
 		Holder<net.minecraft.world.item.enchantment.Enchantment> enchantment,
+		String enchantmentId,
 		float chance
 	) {
 		return LootPool.lootPool()
@@ -67,7 +74,11 @@ public final class ModLoot {
 			.when(net.minecraft.world.level.storage.loot.predicates.LootItemRandomChanceCondition.randomChance(chance))
 			.add(LootItem.lootTableItem(Items.ENCHANTED_BOOK)
 				.apply(new SetEnchantmentsFunction.Builder()
-					.withEnchantment(enchantment, ConstantValue.exactly(1.0F))));
+					.withEnchantment(enchantment, ConstantValue.exactly(1.0F)))
+				.apply(SetComponentsFunction.setComponent(
+					DataComponents.CUSTOM_MODEL_DATA,
+					ModContent.runicBookCustomModelData(enchantmentId)
+				)));
 	}
 
 	private static ResourceKey<net.minecraft.world.item.enchantment.Enchantment> enchantmentKey(String path) {

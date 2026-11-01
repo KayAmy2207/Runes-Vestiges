@@ -352,6 +352,10 @@ public final class ModContent {
 		return 1;
 	}
 
+	static CustomModelData runicBookCustomModelData(String enchantmentId) {
+		return new CustomModelData(runicBookModelData(enchantmentId, 1));
+	}
+
 	static String[] enchantmentIds() {
 		return ENCHANTMENTS.clone();
 	}

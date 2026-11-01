@@ -1,5 +1,8 @@
 # Changelog - Runes & Vestiges
 
+## [1.0.35] - Minecraft 1.21.1
+* Explicitly set the custom model data on each runic loot book so the supplied icon is selected.
+
 ## [1.0.54] - Minecraft 26.3
 * Fixed new runic loot books using a normal book item, so their enchanted-book icons render correctly.
 
