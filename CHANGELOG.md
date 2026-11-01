@@ -1,5 +1,11 @@
 # Changelog - Runes & Vestiges
 
+## [1.0.54] - Minecraft 26.3
+* Fixed new runic loot books using a normal book item, so their enchanted-book icons render correctly.
+
+## [1.0.34] - Minecraft 1.21.1
+* Fixed new runic loot books using a normal book item, so their enchanted-book icons render correctly.
+
 ## [1.0.53] - Minecraft 26.3
 * Fixed Rejuvenation book injection for the Wizard Tower loot table.
 * Added enchanted-book models and the three supplied icons.

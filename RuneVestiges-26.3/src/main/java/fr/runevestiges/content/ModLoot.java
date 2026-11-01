@@ -78,7 +78,7 @@ public final class ModLoot {
         return LootPool.lootPool()
             .setRolls(Holder.direct(new ConstantValue(1)))
             .when(LootItemRandomChanceCondition.randomChance(chance))
-            .add(LootItem.lootTableItem(Items.BOOK)
+            .add(LootItem.lootTableItem(Items.ENCHANTED_BOOK)
                 .apply(new SetEnchantmentsFunction.Builder()
                     .withEnchantment(enchantment, Holder.direct(new ConstantValue(1))))
                 .apply(SetComponentsFunction.setComponent(

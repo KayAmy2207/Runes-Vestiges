@@ -65,7 +65,7 @@ public final class ModLoot {
 		return LootPool.lootPool()
 			.setRolls(ConstantValue.exactly(1.0F))
 			.when(net.minecraft.world.level.storage.loot.predicates.LootItemRandomChanceCondition.randomChance(chance))
-			.add(LootItem.lootTableItem(Items.BOOK)
+			.add(LootItem.lootTableItem(Items.ENCHANTED_BOOK)
 				.apply(new SetEnchantmentsFunction.Builder()
 					.withEnchantment(enchantment, ConstantValue.exactly(1.0F))));
 	}
