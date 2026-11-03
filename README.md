@@ -30,6 +30,8 @@ Enchantments cover combat, defense, movement, mining, farming, and exploration.
 | **Movement & mounts** | Double Jump, Horse Walker, Lift Off, Slime Jump, Sticky Pants, Spiked Harness |
 | **Mining & gathering** | Archaeologist, Leaf Feller, Lumberjack, Melting, Ore Alchemy, Quarrymaster, Quick Learner, Spawner Silk, Wisdom |
 | **Ranged, utility & farming** | Carry, Hooking, Hookshot, Longshot, Lucky Gardener, Magnetism, Piston Eject, Rejuvenation, Vortex |
+| **End Game Stuff** | Obsidian Armor, Rune of Salvation, Rejuvenation |
+
 
 ### Three new enchantments
 
